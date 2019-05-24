@@ -1,5 +1,4 @@
 # Proyecto_Final_CG
-Proyecto final de la clase de computación grafica. El repositorio contiene una versión de prueba y la versión final.
 
 Fecha de entrega: 24 de Mayo 2019
 Requerimientos
