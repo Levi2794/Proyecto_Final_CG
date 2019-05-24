@@ -1,0 +1,19 @@
+﻿  texture.cpp
+  Proyecto_final_Extra.cpp
+c:\users\rick-\desktop\proyecto_final\proyecto_final\proyecto_final_extra.cpp(1432): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  figuras.cpp
+c:\users\rick-\desktop\proyecto_final\proyecto_final\figuras.cpp(1537): warning C4101: 'theta': variable local sin referencia
+c:\users\rick-\desktop\proyecto_final\proyecto_final\figuras.cpp(1537): warning C4101: 'phi': variable local sin referencia
+  Camera.cpp
+  Generando código...
+cmodel.lib(_3dsloader.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(_3dsloader.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(CModel.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(CModel.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(CObject.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(CObject.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(GFILoader.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(GFILoader.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(GLRender.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(GLRender.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(HandleStream.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(HandleStream.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(imageload.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(imageload.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(MATRIX4X4.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(MATRIX4X4.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(VECTOR3D.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(VECTOR3D.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(VECTOR4D.obj) : warning LNK4099: no se encontró PDB 'vc70.pdb' con 'cmodel.lib(VECTOR4D.obj)' o en 'C:\Users\rick-\Desktop\Proyecto_Final\Debug\vc70.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Proyecto_Final.vcxproj -> C:\Users\rick-\Desktop\Proyecto_Final\Debug\Proyecto_Final.exe
